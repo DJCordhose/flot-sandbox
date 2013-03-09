@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+    <h1>Flot-Sandbox</h1>
+    <div id="hover"></div>
+    <div id="pie" style="width:600px;height:300px"></div>
+    <div id="plot" style="width:600px;height:300px"></div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="flot-0.7/jquery.flot.js"></script>
+    <script src="flot-0.7/jquery.flot.pie.js"></script>
+    <script>
+    $(function () {
+            var d1 = [];
+            for (var i = 0; i < 14; i += 0.5)
+                d1.push([i, Math.sin(i)]);
+
+            var d2 = [[0, 3], [4, 8], [8, 5], [9, 13]];
+
+            // a null signifies separate line segments
+            var d3 = [[0, 12], [7, 12], null, [7, 2.5], [12, 2.5]];
+
+            $.plot($("#plot"), [ d1, d2, d3 ]);
+
+        var pieData = [
+         { label: "Series1",  data: 10},
+         { label: "Series2",  data: 30},
+         { label: "Series3",  data: 90},
+         { label: "Series4",  data: 70},
+         { label: "Series5",  data: 80},
+         { label: "Series6",  data: 110}
+         ];
+        $.plot($("#pie"),
+                pieData,
+                {
+                    series: {
+                        pie: {
+                            show: true
+                        }
+                    },
+                    grid: {
+                        hoverable: true,
+                        clickable: true
+                    }
+                }
+        );
+
+        function pieHover(event, pos, obj)
+        {
+            if (!obj)
+                return;
+            var percent = parseFloat(obj.series.percent).toFixed(2);
+            $("#hover").html('<span style="font-weight: bold; color: '+obj.series.color+'">'+obj.series.label+' ('+percent+'%)</span>');
+        }
+
+        function pieClick(event, pos, obj)
+        {
+            if (!obj)
+                return;
+            var percent = parseFloat(obj.series.percent).toFixed(2);
+            alert(''+obj.series.label+': '+percent+'%');
+        }
+
+        $("#pie").bind("plothover", pieHover);
+        $("#pie").bind("plotclick", pieClick);
+    });
+
+    </script>
+</body>
+</html>
