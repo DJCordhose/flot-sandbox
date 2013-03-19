@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d86db5fd-9b63-4c84-b816-7e25cd33b255" name="Default" comment="" />
+    <list default="true" id="d86db5fd-9b63-4c84-b816-7e25cd33b255" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Flot-Sandbox.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1362828743454" ignored="false" />
-    <file path="$USER_HOME$/Trainings/GWT Workshop/index.html" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1362828771471" ignored="false" />
-    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/todo.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1360677103525" ignored="false" />
-    <file path="/todo.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1360677103525" ignored="false" />
-    <file path="/Dummy.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1360836705023" ignored="false" />
-    <file path="$USER_HOME$/Trainings/GWT Workshop/.idea/workspace.xml" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1360628866538" ignored="false" />
+    <file path="/index.html" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363698355661" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/index.html" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363085532046" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/todo.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363087665810" ignored="false" />
+    <file path="/todo.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363087091354" ignored="false" />
+    <file path="/Dummy.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363694348209" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/.idea/workspace.xml" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363110783678" ignored="false" />
     <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/plan.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1360667044738" ignored="false" />
     <file path="$USER_HOME$/Trainings/GWT Workshop/ClientBundle/index.html" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1360676797331" ignored="false" />
     <file path="$USER_HOME$/Trainings/Painless JavaScript/code/RESTFul Services Demo/war/app/persons-remote.js" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1360701391773" ignored="false" />
@@ -28,6 +33,22 @@
     <file path="/sandbox-ts.ts" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1360779997033" ignored="false" />
     <file path="$USER_HOME$/Trainings/Painless JavaScript/oose.html" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1360748139943" ignored="false" />
     <file path="/oose.html" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1360748119811" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/HelloWorld/index.html" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1362936443446" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/UI/index.html" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1362937729066" ignored="false" />
+    <file path="$PROJECT_DIR$/../Zeigermann/index.html" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363039206315" ignored="false" />
+    <file path="$PROJECT_DIR$/../Zeigermann/.idea/workspace.xml" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363110783678" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/themen.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363008194492" ignored="false" />
+    <file path="/themen.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363008149604" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/themen-spring-hibernate.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363085159431" ignored="false" />
+    <file path="/themen-spring-hibernate.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363085159431" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/themen-integration.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363085249431" ignored="false" />
+    <file path="/themen-integration.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363085249431" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/themen-MVP.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363011683171" ignored="false" />
+    <file path="/themen-MVP.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363011682068" ignored="false" />
+    <file path="/themen-large-scale.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363087599218" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/Trainer/themen-large-scale.txt" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363087659215" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/RPC/index.html" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363031938781" ignored="false" />
+    <file path="$USER_HOME$/Trainings/GWT Workshop/i18n/index.html" changelist="d86db5fd-9b63-4c84-b816-7e25cd33b255" time="1363037144873" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +71,11 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="40" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.54298645">
+            <state line="38" column="34" selection-start="1271" selection-end="1271" vertical-scroll-proportion="0.36079547">
               <folding>
                 <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1360621759000" expanded="false" signature="1686:1712" placeholder="..." />
+                <marker date="1363698356000" expanded="false" signature="1535:1561" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -88,6 +109,14 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
@@ -99,9 +128,9 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1920" />
-    <option name="height" value="1054" />
+    <option name="height" value="874" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -153,11 +182,11 @@
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -184,9 +213,33 @@
       <option name="testName" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d86db5fd-9b63-4c84-b816-7e25cd33b255" name="Default" comment="" />
@@ -196,14 +249,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1054" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1920" height="874" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26680896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17235859" sideWeight="0.9732906" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -279,13 +332,23 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/flot-0.7/jquery.flot.pie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="615" column="46" selection-start="18490" selection-end="18490" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1360609742000" expanded="false" signature="13736:13760" placeholder="..." />
+            <marker date="1360609742000" expanded="false" signature="20935:20989" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="45" column="21" selection-start="1444" selection-end="1444" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1360621759000" expanded="false" signature="1686:1712" placeholder="..." />
+            <marker date="1363698356000" expanded="false" signature="1535:1561" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -313,7 +376,7 @@
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1360621759000" expanded="false" signature="1686:1712" placeholder="..." />
+            <marker date="1363698356000" expanded="false" signature="1535:1561" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -341,7 +404,7 @@
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1360621759000" expanded="false" signature="1686:1712" placeholder="..." />
+            <marker date="1363698356000" expanded="false" signature="1535:1561" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -369,7 +432,7 @@
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1360621759000" expanded="false" signature="1686:1712" placeholder="..." />
+            <marker date="1363698356000" expanded="false" signature="1535:1561" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -410,11 +473,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="40" selection-start="1083" selection-end="1083" vertical-scroll-proportion="0.54298645">
+        <state line="38" column="34" selection-start="1271" selection-end="1271" vertical-scroll-proportion="0.36079547">
           <folding>
             <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1360621759000" expanded="false" signature="1686:1712" placeholder="..." />
+            <marker date="1363698356000" expanded="false" signature="1535:1561" placeholder="..." />
           </folding>
         </state>
       </provider>

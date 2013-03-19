@@ -12,18 +12,8 @@
     <script src="flot-0.7/jquery.flot.js"></script>
     <script src="flot-0.7/jquery.flot.pie.js"></script>
     <script>
+        <!-- http://people.iola.dk/olau/flot/examples/pie.html -->
     $(function () {
-            var d1 = [];
-            for (var i = 0; i < 14; i += 0.5)
-                d1.push([i, Math.sin(i)]);
-
-            var d2 = [[0, 3], [4, 8], [8, 5], [9, 13]];
-
-            // a null signifies separate line segments
-            var d3 = [[0, 12], [7, 12], null, [7, 2.5], [12, 2.5]];
-
-            $.plot($("#plot"), [ d1, d2, d3 ]);
-
         var pieData = [
          { label: "Series1",  data: 10},
          { label: "Series2",  data: 30},
@@ -37,12 +27,16 @@
                 {
                     series: {
                         pie: {
+                            tilt: 0.5,
                             show: true
                         }
                     },
                     grid: {
                         hoverable: true,
                         clickable: true
+                    },
+                    legend: {
+                        show: true
                     }
                 }
         );
